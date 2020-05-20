@@ -5760,7 +5760,7 @@ Something went wrong. Please try again.,A avut loc o eroare. încercati din nou,
 "Sorry, we haven't installed the base currency you selected.","Ne cerem scuze, moneda implicita nu este instalata.",module,Magento_Config
 "Sorry, we haven't installed the default display currency you selected.","Ne cerem scuze, moneda implicita afisata nu este instalata.",module,Magento_Config
 "Sorry, we're unable to complete this request.","Ne cerem scuze, nu s-a putut finaliza solicitarea.",module,Magento_Catalog
-Sort By,Sortati dupa,module,Magento_Catalog
+Sort By,"",module,Magento_Catalog
 Sort Custom Option,Sortati optiuni personalizare,module,Magento_Catalog
 Sort Custom Options,Sortati optiuni personalizare,module,Magento_Catalog
 Sort Option,Sortati optiune,module,Magento_Catalog

@@ -2,7 +2,7 @@
   "name": "webraptor/magento-2-romanian-language-pack",
   "description": "Romanian language package for Magento 2",
   "type": "magento2-language",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
