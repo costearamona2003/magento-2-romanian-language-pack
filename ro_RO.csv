@@ -5563,8 +5563,8 @@ Shipping Report,Raport livrari,module,Magento_Reports
 Shipping Settings,Setari livrare,module,Magento_Shipping
 Shipping State/Province,Stat/Zona livrare,module,Magento_SalesRule
 Shipping To,Livrare la,module,Magento_Multishipping
-Shop By,Cumparati dupa,module,Magento_Catalog
-Shop By,Cumpara de la,module,Magento_LayeredNavigation
+Shop By,Filtre,module,Magento_Catalog
+Shop By,Filtre,module,Magento_LayeredNavigation
 Shop now using (150 X 40),Cumparati acum folosind (150 X 40),module,Magento_Paypal
 Shop now using (150 X 60),Cumparati acum folosind (150 X 60),module,Magento_Paypal
 Shopping Cart,Cos de cumparaturi,module,Magento_Checkout
